@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**yere-qubio/yere-qubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! 👋 I'm Yere
 
-Here are some ideas to get you started:
+I'm a PhD student in Medical Imaging at the [Universidad Santiago de Compostela](https://www.usc.es/). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm passionate about using technology to improve healthcare. My research focuses on image enhacement. 
+
+
+## Contact
+
+* **Email:** jeremiah.poveda@rai.usc.es
