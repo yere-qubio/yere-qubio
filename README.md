@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # ¡Hola! 👋 I'm Yere
 
 I'm a PhD student in Medical Imaging at the [Universidad Santiago de Compostela](https://www.usc.es/). 
